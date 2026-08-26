@@ -1,0 +1,10 @@
+{
+  "name": "aikido-demo",
+  "version": "1.0.0",
+  "description": "Aikido security demo",
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "axios": "0.21.1"
+  }
+}
