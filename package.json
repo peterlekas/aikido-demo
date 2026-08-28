@@ -4,7 +4,7 @@
   "description": "Aikido security demo",
   "dependencies": {
     "express": "4.17.1",
-    "lodash": "4.17.15",
+    "lodash": "https://npm.aikido.io/2231dfe6a0251831e57f9/lodash@4.17.15-aikido.2",
     "axios": "0.21.1"
   }
 }
